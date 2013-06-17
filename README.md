@@ -1,7 +1,7 @@
 #WordPress Twitter Search
 Embed a results of a Twitter search in a WordPress page using Twitter REST API v1.1.
 
-Instructions at __
+Instructions at [http://zachcoble.com/words/wp-twitter-search/](http://zachcoble.com/words/wp-twitter-search/)
 
 ###File Location
 - /js: put this folder in the root directory of your Wordpress site.
