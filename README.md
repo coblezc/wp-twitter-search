@@ -1,5 +1,5 @@
 #WordPress Twitter Search
-Embed a results of a Twitter search in a WordPress page using Twitter REST API v1.1.
+Embed results of a Twitter search in a WordPress page using Twitter REST API v1.1.
 
 Instructions at [http://zachcoble.com/words/wp-twitter-search/](http://zachcoble.com/words/wp-twitter-search/)
 
