@@ -3,6 +3,7 @@ Embed results of a Twitter search in a WordPress page using Twitter REST API v1.
 
 Instructions at [http://zachcoble.com/words/wp-twitter-search/](http://zachcoble.com/words/wp-twitter-search/)  
 **Update: In the WordPress page that will call the tweets, include this in the Text tab:
+
     <script src="../js/initialize-tweets.js"></script>
 
 ###File Location
